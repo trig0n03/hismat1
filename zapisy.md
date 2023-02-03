@@ -1,40 +1,40 @@
 # Zapisy
 
-- Wykład 01: 02.03.22 - Matematyka na przełomie XVII i XVIII w., spojrzenie z dystansu
-  - Jakub Kołaczyński; jk438520
-- Wykład 02: 09.03.22-Euler i inni. Analiza i mechanika w XVIII wieku.
-  - Jakub Kołaczyński; jk438520
-- Wykład 03: 16.03.22 - Rozwój algebry w XIX wieku.
-  - Wojtek Rzepliński
-- Wykład 04: 23.03.22 - Aksjomatyzacja geometrii w XVII-XIX wieku
-  - Wojtek Rzepliński
-- Wykład 05: 30.03.22 - Geometria i nie tylko.
-  - Szymon Dziuda; sdziuda
+- Wykład 01: 5-10-2022 -  	Systemy liczbowe i ich (pre)historia
+  - Imię Nazwisko osoby która temat rezerwuje
+- Wykład 02: 12-10-2022 - Matematyka Mezopotamii i Egiptu
+  - Imię Nazwisko
+- Wykład 03: 19-10-2022 - Tło historyczne, I: ustrój polityczny Grecji i jego wpływ na rozwój nauki
+  - Imię Nazwisko
+- Wykład 04: 26-10-2022 - Matematyka starożytnej Grecji, I. Tales, Pitagoras, Eratostenes
+  - Imię Nazwisko
+- Wykład 05: 2-11-2022 - Matematyka starożytnej Grecji, II. Euklides i Elementy
+  - Imię Nazwisko
+- Wykład 06: 9-11-2022 - Matematyka starożytnej Grecji, III: od Archimedesa do późnych epigonów Pitagoras, Eratostenes
+  - Imię Nazwisko
+- Wykład 07: 16-11-2022 - Matematyka poza Europą: Chiny, Indie, …
+  - Imię Nazwisko
 
-- Wykład 06: 6.04.22 - Rygoryzacja analizy i fizyka matematyczna w XIX wieku
-  - Przemek Fuchs
+- Wykład 08: 23-11-2022 - Matematyka świata islamskiego. Przełom pierwszego tysiąclecia.
+  - Imię Nazwisko
 
-- Wykład 07: 13.04.22 - Osiągnięcia matematyków polskich do końca XIX w.
-  - Artur Kamieniecki
+- Wykład 09: 30-11-2022 - Tło historyczne, II: XI-XII wiek, droga do Renesansu w.
+  - Imię Nazwisko
 
-- Wykład 08: 20.04.22 - Podstawy matematyki. Od Dedekinda i Cantora do Cohena.
-  - Szymon Dziuda; sdziuda
+- Wykład 10: 7-12-2022 - Od Fibonacciego do Bombellego, z naciskiem na algebrę.
+  - Imię Nazwisko
   
-- Wykład 09: 27.04.22 - Problemy Hilberta
-  - Przemek Fuchs
+- Wykład 11: 14-12-2022 - Tło historyczne, III: rewolucja kopernikańska
+  - Imię Nazwisko
 
-- Wykład 10: 11.05.2022 - Matematyka polska 1900-1939
-  - LaMavia
+- Wykład 12: 21-12-2022 - Rozwój analizy, I. Przygotowanie: Oresme, Galileusz, Kartezjusz, Kepler
+  - Imię Nazwisko
 
-- Wykład 11: 18.05.2022 - Wyrywki z historii topologii
-	- Basia Bugała 
+- Wykład 13: 11-01-2023 - Rozwój analizy, II. Fermat, Bernoulli, Huygens, …
+  - Imię Nazwisko
  
-- Wykład 12: 25.05.2022 - Jak informatyka wyrosła z matematyki i jakie ma z nią relacje?
-  - Jakub Kołaczyński; jk438520
+- Wykład 14: 18-01-2023 - Rozwój analizy, III. Newton i Leibniz
+  - Imię Nazwisko
 
-- Wykład 13: 1.06.2022 - Matematyka losowości, II.
-  - Basia Bugała
-
-- Wykład 14: 8.06.2022 - Panel o zastosowaniach matematyki
-
-- Wykład 15: 15.06.2022 - rozmowa o przyszłości matematyki
+- Wykład 15: 25-01-2023 - Matematyka losowości, II.
+  - Imię Nazwisko
