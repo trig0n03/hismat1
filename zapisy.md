@@ -1,15 +1,15 @@
 # Zapisy
 
 - Wykład 01: 5-10-2022 -  	Systemy liczbowe i ich (pre)historia
-  - Imię Nazwisko osoby która temat rezerwuje
+  - Natalka :O @imolshi
 - Wykład 02: 12-10-2022 - Matematyka Mezopotamii i Egiptu
-  - Imię Nazwisko
+  - Natalka :O @imolshi
 - Wykład 03: 19-10-2022 - Tło historyczne, I: ustrój polityczny Grecji i jego wpływ na rozwój nauki
-  - Imię Nazwisko
+  - Natalka :O @imolshi
 - Wykład 04: 26-10-2022 - Matematyka starożytnej Grecji, I. Tales, Pitagoras, Eratostenes
-  - Imię Nazwisko
+  - Natalka :O @imolshi
 - Wykład 05: 2-11-2022 - Matematyka starożytnej Grecji, II. Euklides i Elementy
-  - Imię Nazwisko
+  - Natalka :O @imolshi
 - Wykład 06: 9-11-2022 - Matematyka starożytnej Grecji, III: od Archimedesa do późnych epigonów Pitagoras, Eratostenes
   - Imię Nazwisko
 - Wykład 07: 16-11-2022 - Matematyka poza Europą: Chiny, Indie, …
