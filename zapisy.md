@@ -11,9 +11,9 @@
 - Wykład 05: 2-11-2022 - Matematyka starożytnej Grecji, II. Euklides i Elementy
   - Natalka :O @imolshi
 - Wykład 06: 9-11-2022 - Matematyka starożytnej Grecji, III: od Archimedesa do późnych epigonów Pitagoras, Eratostenes
-  - Imię Nazwisko
+  - Antek @AntekC
 - Wykład 07: 16-11-2022 - Matematyka poza Europą: Chiny, Indie, …
-  - Imię Nazwisko
+  - Antek @AntekC
 
 - Wykład 08: 23-11-2022 - Matematyka świata islamskiego. Przełom pierwszego tysiąclecia.
   - Imię Nazwisko
