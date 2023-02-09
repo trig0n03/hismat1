@@ -16,7 +16,7 @@
   - Antek @AntekC
 
 - Wykład 08: 23-11-2022 - Matematyka świata islamskiego. Przełom pierwszego tysiąclecia.
-  - Imię Nazwisko
+  - Karol Wąsowski @kwasow
 
 - Wykład 09: 30-11-2022 - Tło historyczne, II: XI-XII wiek, droga do Renesansu w.
   - Imię Nazwisko
